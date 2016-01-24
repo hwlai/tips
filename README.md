@@ -48,7 +48,7 @@ Git
 
 * `git *add <files>` - [add description*]
 * `git commit` - [*add description*]
-  * Tip - Use `git commit -v` to see exactly what you are committing..
+  * **Tip!** Use `git commit -v` to see exactly what you are committing..
 
 
 ### Remote repositories (e.g. Github) ###
