@@ -1,6 +1,10 @@
 Vim
 ===
 
+Use `:help <letter/symbol>` from within Vim to get more information about a
+certain motion/operator/text object etc., for example `:help ;` and `help dd`.
+
+
 Motion
 ------
 
