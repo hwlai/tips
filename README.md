@@ -23,6 +23,8 @@ Motion
 * `j` - down 
 * `gg` - go to the top
 * `G` - go to the end
+* `}` - [add description]
+* `{` - [add description]
 
 
 Git
