@@ -13,6 +13,8 @@ Motion
 * `h` - left
 * `l` - right
 * `f + <letter>` - jump to the letter
+* `;` - [add description]
+* `,` - [add description]
 
 
 ### Vertical motion ###
