@@ -25,6 +25,8 @@ Motion
 * `G` - go to the end
 * `}` - [add description]
 * `{` - [add description]
+* `Ctrl+f` - [add description]
+* `Ctrl+b` - [add description]
 
 
 Git
