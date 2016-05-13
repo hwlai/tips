@@ -84,7 +84,7 @@ Here we assume that the tmux key is `Ctrl+a`.
 ### Windows ###
 
 * `Ctrl+a c` - create a new window
-  * To close a window, simply exit the shell (with `exit` or `Ctrl+D`).
+  * To close a window, simply exit the shell (with `exit` or `Ctrl+d`).
 * `Ctrl+a 1` - switch to window 1 (works with `2`, ..., `9`, and `0`)
 * `Ctrl+a p` - switch to previous window
 * `Ctrl+a n` - switch to next window
