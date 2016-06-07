@@ -29,6 +29,15 @@ Motion
 * `Ctrl+b` - [*add description*]
 
 
+Macro
+-----
+
+* `q + <letter>` - start recording macro to `letter`
+* `q` (while recording) - stop recording
+* `@ + <letter>` - replay macro at `letter`
+* `@@` - replay last replayed macro
+
+
 Git
 ===
 
