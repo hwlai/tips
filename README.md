@@ -38,6 +38,20 @@ Macro
 * `@@` - replay last replayed macro
 
 
+Visual
+------
+
+* `v` - Enter character-wise visual mode
+* `V` - Enter line-wise visual mode
+* `Ctrl+v` - Enter block-wise visual mode
+* `<Esc>` - Exit visual mode
+
+While in visual mode, you can:
+* `d` - Delete text
+* `I` - Insert text (block visual mode)
+* `A` - Append text (block visual mode)
+
+
 Git
 ===
 
