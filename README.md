@@ -68,9 +68,10 @@ Splits
 Git
 ===
 
-### Workflows ###
+Workflows
+---------
 
-#### Commit changes and push to Github ####
+### Commit changes and push to Github ###
 
 1. `cd` to the directory that contains the repository.
 
@@ -86,7 +87,7 @@ Git
 5. Push to remote repository (Github) with `git push`.
 
 
-#### Pull changes from Github ####
+### Pull changes from Github ###
 
 1. `cd` to the directory that contains the repository.
 
@@ -95,28 +96,29 @@ Git
 2. Pull the changes with `git pull`.
 
 
-### Commands ###
+Commands
+--------
 
-#### Create a new repository ####
+### Create a new repository ###
 
 * `git init` - [*add description*]
 * `git clone <repository>` - [*add description*]
 
 
-#### Show information ####
+### Show information ###
 
 * `git status` - [*add description*]
 * `git log` - [*add description*]
 
 
-#### Stage and commit changes ####
+### Stage and commit changes ###
 
 * `git add <files>` - [*add description*]
 * `git commit` - [*add description*]
   * **Tip!** Use `git commit -v` to see exactly what you are committing.
 
 
-#### Remote repositories (e.g. Github) ####
+### Remote repositories (e.g. Github) ###
 
 * `git pull` - [*add description*]
 * `git push` - [*add description*]
