@@ -52,6 +52,19 @@ While in visual mode, you can:
 * `A` - Append text (block visual mode)
 
 
+Splits
+------
+
+* `:sp` - Create a horizontal split
+* `:vs` - Create a vertical split
+* `:q` - Close split
+* `Ctrl-w h` - Navigate to split on the left
+* `Ctrl-w j` - Navigate to split below
+* `Ctrl-w k` - Navigate to split above
+* `Ctrl-w l` - Navigate to split on the right
+* `Ctrl-w w` - Navigate to the next split
+
+
 Git
 ===
 
