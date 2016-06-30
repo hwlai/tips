@@ -1,3 +1,8 @@
+Bash
+====
+
+* `ctrl r` - search history
+
 Vim
 ===
 
