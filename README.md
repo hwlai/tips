@@ -82,26 +82,28 @@ Git
 2. Pull the changes with `git pull`.
 
 
-### Create a new repository ###
+### Commands ###
+
+#### Create a new repository ####
 
 * `git init` - [*add description*]
 * `git clone <repository>` - [*add description*]
 
 
-### Show information ###
+#### Show information ####
 
 * `git status` - [*add description*]
 * `git log` - [*add description*]
 
 
-### Stage and commit changes ###
+#### Stage and commit changes ####
 
 * `git add <files>` - [*add description*]
 * `git commit` - [*add description*]
   * **Tip!** Use `git commit -v` to see exactly what you are committing.
 
 
-### Remote repositories (e.g. Github) ###
+#### Remote repositories (e.g. Github) ####
 
 * `git pull` - [*add description*]
 * `git push` - [*add description*]
