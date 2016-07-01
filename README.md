@@ -57,8 +57,52 @@ While in visual mode, you can:
 * `A` - Append text (block visual mode)
 
 
+Splits
+------
+
+* `:sp` - Create a horizontal split
+* `:vs` - Create a vertical split
+* `:q` - Close split
+* `Ctrl-w h` - Navigate to split on the left
+* `Ctrl-w j` - Navigate to split below
+* `Ctrl-w k` - Navigate to split above
+* `Ctrl-w l` - Navigate to split on the right
+* `Ctrl-w w` - Navigate to the next split
+
+
 Git
 ===
+
+Workflows
+---------
+
+### Commit changes and push to Github ###
+
+1. `cd` to the directory that contains the repository.
+
+  Example: `cd ~/.dotfiles`
+
+2. Check the status with `git status`.
+3. Stage the changes with `git add`.
+
+  Example: `git add vimrc`
+
+4. Commit the changes with `git commit`.
+   Write a commit message that describes your changes.
+5. Push to remote repository (Github) with `git push`.
+
+
+### Pull changes from Github ###
+
+1. `cd` to the directory that contains the repository.
+
+  Example: `cd ~/.dotfiles`
+
+2. Pull the changes with `git pull`.
+
+
+Commands
+--------
 
 ### Create a new repository ###
 
