@@ -139,7 +139,7 @@ From the command line
 * `tmux new -s <name>` - start a new tmux session named `<name>`
 * `tmux ls` - list all sessions
 * `tmux attach -t <name>` - attach session named `<name>`
-
+* `tmux kill-session -t <name>` - kill session named `<name>`
 
 From within tmux
 ----------------
@@ -161,7 +161,7 @@ Here we assume that the tmux key is `Ctrl+a`.
 * `Ctrl+a p` - switch to previous window
 * `Ctrl+a n` - switch to next window
 * `Ctrl+a ,` - rename current window
-
+* `Ctrl+a &` - kill current window
 
 ### Splits ###
 
