@@ -5,6 +5,21 @@ Use `:help <letter/symbol>` from within Vim to get more information about a
 certain motion/operator/text object etc., for example `:help ;` and `help dd`.
 
 
+Operater
+--------
+
+* `ci` - change inner text object + insert mode 
+* `ca` - change a text object 
+* `di` - delete inner text object 
+* `da` - delete a text object 
+
+Text object
+-----------
+* `{} [] ()`
+* `'' ""`
+* `w` - word
+* `s` - sentence
+
 Motion
 ------
 
