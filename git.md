@@ -55,5 +55,5 @@ Commands
 
 * `git pull` - [*add description*]
 * `git push` - [*add description*]
-
-
+* `git checkout` - [*add description*]
+* `git merge` - [*add description*]
