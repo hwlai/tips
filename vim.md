@@ -43,6 +43,11 @@ Motion
 * `Ctrl+f` - [*add description*]
 * `Ctrl+b` - [*add description*]
 
+### Other motion ###
+
+* ` `` ` - previously changed line
+* `` `. `` - previously changed location
+
 
 Macro
 -----
