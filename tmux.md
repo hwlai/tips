@@ -39,3 +39,4 @@ Here we assume that the tmux key is `Ctrl+a`.
 * `Ctrl+a left` - switch to the pane on the left 
 (works with `right`, `up`, and `down`)
 * `Ctrl+a  o` - switch between panes
+* `Ctrl+a  x` - kill current pane
